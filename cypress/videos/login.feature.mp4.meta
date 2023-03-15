@@ -1,0 +1,21 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=46171
+END=83953
+title=WebdriverUniversity Login Page Login using valid credentials
+[CHAPTER]
+TIMEBASE=1/1000
+START=108300
+END=122018
+title=WebdriverUniversity Login Page Login using invalid credentials
+[CHAPTER]
+TIMEBASE=1/1000
+START=125831
+END=135936
+title=WebdriverUniversity Login Page Test Login via WebdriverUniversity (example #1)
+[CHAPTER]
+TIMEBASE=1/1000
+START=141371
+END=146063
+title=WebdriverUniversity Login Page Test Login via WebdriverUniversity (example #2)
