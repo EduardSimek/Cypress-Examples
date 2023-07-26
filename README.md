@@ -1,1 +1,1 @@
-This is a Cypress course from Udemy
+This is a Cypress examples from Udemy.
